@@ -1,2 +1,2 @@
-# Modern Music Landing Page 
+# Ecommerce card
 ![](readme.gif)
